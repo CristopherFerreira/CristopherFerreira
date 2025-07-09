@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Cristopher Ferreira!
+Olá, sou o Cristopher Ferreira!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
@@ -7,27 +7,28 @@ Hi, I'm Cristopher Ferreira!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+em+Ciência+da+Computação;Freelancer;SQL%20|%20Front-End%20;%20Desenvolvimento+Web;Sempre%20Aprendendo%20Coisas%20Novas&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/CristopherFerreira/CristopherFerreira/blob/main/profile.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+Eu-Sou-CristopherFerreira@github
+--------------------------------
+💻 Desenvolvedor em formação, apaixonado por tecnologia e resolução de problemas
+🎓 Estudante de Ciência da Computação na Uninove
+🛠️ Habilidades em Python, SQL, HTML, CSS, JavaScript e C
+🧠 Interesse por lógica de programação, análise de dados e desenvolvimento web
+📚 Aprendendo diariamente sobre estruturas de dados, algoritmos e boas práticas de código
+🌐 Familiaridade com ferramentas como Git, GitHub e VS Code
+🚀 Buscando evoluir como Full Stack Developer com bases sólidas em backend e frontend
+🎧 A programação flui melhor com uma boa playlist 
 ```
 <hr>
-    
+
+<br>
+
 
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,10 +40,9 @@ I-am-vishalmaurya@github
   
   ##
 
-  <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+  ### Spotify Playing 🎧
+  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/se4q68mmu036zmv4c33qkv6uq)
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
  
 <div align="center"> 
   <a href="https://www.youtube.com/@devcristopher1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -51,3 +51,7 @@ I-am-vishalmaurya@github
   <a href="https://www.linkedin.com/in/cristopherferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
