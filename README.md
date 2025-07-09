@@ -9,9 +9,12 @@ Olá, sou o Cristopher Ferreira!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+em+Ciência+da+Computação;Freelancer;SQL%20|%20Front-End%20;%20Desenvolvimento+Web;Sempre%20Aprendendo%20Coisas%20Novas&center=true&width=380&height=45&color=FFFFFF">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+em+Ciência+da+Computação;Freelancer;SQL+%7C+Front-End;Desenvolvimento+Web;Sempre+Aprendendo+Coisas+Novas&center=true&width=500&height=45&color=000000">
   </a>
 </p>
+
+
+
 
 <img align="left" src="https://github.com/CristopherFerreira/CristopherFerreira/blob/main/profile.jpg" width="250" height="250"/>
 
