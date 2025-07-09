@@ -40,9 +40,7 @@ Eu-Sou-CristopherFerreira@github
   
   ##
 
-  ### Spotify Playing 🎧
-  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/se4q68mmu036zmv4c33qkv6uq)
-  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  
  
 <div align="center"> 
   <a href="https://www.youtube.com/@devcristopher1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
