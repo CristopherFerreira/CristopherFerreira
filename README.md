@@ -9,7 +9,7 @@ Olá, sou o Cristopher Ferreira!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+em+Ciência+da+Computação;Freelancer;SQL+%7C+Front-End;Desenvolvimento+Web;Sempre+Aprendendo+Coisas+Novas&center=true&width=500&height=45&color=000000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+em+Ciência+da+Computação;Freelancer;SQL+%7C+Front-End;Desenvolvimento+Web;Sempre+Aprendendo+Coisas+Novas&center=true&width=500&height=45&color=FFFFFF">
   </a>
 </p>
 
