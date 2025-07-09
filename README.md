@@ -3,8 +3,14 @@ Olá, Me Chamo Cristopher 🙃
 <div align="center">
   <a href="https://github.com/CristopherFerreira">
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=CristopherFerreira&show_icons=true&theme=dark&cache_seconds=1" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherFerreira&show_icons=true&theme=dark&cache_seconds=1" />
+  <p align="center">
+  <img heigth="200" src="https://github-readme-stats.vercel.app/api?username=CristopherFerreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;
+  <img heigth="200" src="https://github-readme-streak-stats.herokuapp.com/?user=CristopherFerreira&theme=dark&hide_border=false" />
+  &nbsp;
+  <img heigth="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherFerreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
     
 
 <div align="center" style="display: inline_block"><br>
